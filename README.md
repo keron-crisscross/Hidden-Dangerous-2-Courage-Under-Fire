@@ -204,4 +204,4 @@ This repository serves as the official landing page for Hidden & Dangerous 2: Co
 **Get the most recent version of Hidden & Dangerous 2 today!**
 
 ---
-**Last updated:** 2026-11-10 02:29:58 UTC
+**Last updated:** 2026-11-10 10:42:41 UTC
